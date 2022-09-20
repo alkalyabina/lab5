@@ -1,0 +1,11 @@
+help
+add
+aboba
+12
+0
+90
+123
+DREADNOUGHT
+BOLTGUN
+12
+45
